@@ -1,4 +1,9 @@
-### Hi there 👋
+# Adriano Teodoro (Snaity)
+
+<div width="100%" align="center">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=adrianopteodoro&show_icons=true&theme=radical" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianopteodoro&theme=radical&layout=compact" />
+</div>
 
 <!--
 **adrianopteodoro/adrianopteodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
