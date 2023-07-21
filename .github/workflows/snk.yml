@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@main
         with:
           github_user_name: adrianopteodoro
           gif_out_path: animations/gh-contrib-grid-snake.gif
