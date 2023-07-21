@@ -5,9 +5,11 @@
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianopteodoro&theme=vision-friendly-dark&layout=compact" />
 </div>
 
-<div width="100%" align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/adrianopteodoro/adrianopteodoro/gh-pages/gh-contrib-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!--
 **adrianopteodoro/adrianopteodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
