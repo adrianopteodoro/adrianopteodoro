@@ -8,11 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk@main
+      - uses: Platane/snk@v3
         with:
-          github_user_name: adrianopteodoro
-          gif_out_path: animations/gh-contrib-grid-snake.gif
-          svg_out_path: animations/gh-contrib-grid-snake.svg
+          github_user_name:  ${{ github.repository_owner }}
+          outputs: |
+            animations/gh-contrib-grid-snake.gif
+            animations/gh-contrib-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: gh-pages
