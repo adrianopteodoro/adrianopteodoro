@@ -1,8 +1,8 @@
 # Adriano Teodoro (Snaity)
 
 <div width="100%" align="center">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=adrianopteodoro&show_icons=true&theme=vision-friendly-dark" />
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianopteodoro&theme=vision-friendly-dark&layout=compact" />
+  <img align="center" height="150px" src="https://github-stats-extended.vercel.app/api?username=adrianopteodoro&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" height="150px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adrianopteodoro&theme=vision-friendly-dark&layout=compact" />
 </div>
 
 <picture>
